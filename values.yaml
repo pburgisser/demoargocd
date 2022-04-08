@@ -2,7 +2,7 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-mon_joli_port: 8080
+mon_joli_port: 8081
 
 replicaCount: 1
 
